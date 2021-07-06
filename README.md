@@ -1,6 +1,6 @@
 # 2021_Quantum_Hackathon
     Topic : Entanglement Swapping Protocol
-    Goal : implement 4 Qubits and 10 Qubits Entanglement Swapping Protocol using Qiskit and ionQ hardware
+    Goal : implement 4 Qubits and 10 Qubits Entanglement Swapping Protocol on Qiskit
     Team : NetworQ
     Junsik Yu(ChungAng University),Leader
     KwangMin Kim(Soongsil University)
@@ -41,6 +41,7 @@ It means that q_0(Alice) and q_4(Bob) shares the same bits.
 Finally we achieved our purpose. Alice and Bob has the same bit throughout this protocol.
 
 ## 3. Implement quantum circuit
+![image](https://user-images.githubusercontent.com/62958764/124542387-458b9600-de5e-11eb-9659-3d30240706c8.png)
 
 ## 4. Measurement result
 
